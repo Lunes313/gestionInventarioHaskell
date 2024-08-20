@@ -4,12 +4,12 @@
 - Johan Samuel Rico Nivia 
 
 
-## Manual de usuario
+## Manual de Usuario
 
-***Introducción***
+**Introducción**
 El Sistema de Gestión de Inventario permite gestionar productos almacenados en un archivo de texto. Puedes añadir productos, buscar artículos por categoría, listar todos los productos y mostrar la cantidad de productos por categoría.
 
-Opciones del Menú
+**Opciones del Menú**
 
 **1. Añadir Producto**
 El usuario ingresa el nombre, categoría y precio del producto a añadir en el inventario.
