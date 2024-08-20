@@ -1,0 +1,2 @@
+Producto {nombre = "ojan", categoria = "umano", precio = 1.0}
+Producto {nombre = "aura", categoria = "umano", precio = 2.0}
