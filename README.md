@@ -1,7 +1,9 @@
 # Practica 1 - Lenguajes de programación
 
 - Laura Restrepo Berrio
-- Johan Samuel Rico Nivia 
+- Johan Samuel Rico Nivia
+
+<sub>El código fue realizado usando Visual Studio</sub>
 
 
 ## Manual de Usuario
