@@ -3,7 +3,7 @@
 - Laura Restrepo Berrio
 - Johan Samuel Rico Nivia
 
-<sub>El código fue realizado usando Visual Studio</sub>
+_<sub>Código realizado con "Live Share" de Visual Studio</sub>_
 
 
 ## Manual de Usuario
