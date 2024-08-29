@@ -1,2 +1,4 @@
-Producto {nombre = "ojan", categoria = "umano", precio = 1.0}
-Producto {nombre = "aura", categoria = "umano", precio = 2.0}
+Producto {nombre = "Fanta", categoria = "Bebidas", precio = 2500.0}
+Producto {nombre = "CocaCola", categoria = "Bebidas", precio = 3500.0}
+Producto {nombre = "Guitarra Electrica", categoria = "Musica", precio = 420000.0}
+Producto {nombre = "Shampoo", categoria = "Limpieza", precio = 50000.0}
