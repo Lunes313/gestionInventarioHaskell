@@ -1,6 +1,7 @@
 -- Autores:
 -- Laura Restrepo Berrio
 -- Johan Samuel Rico
+-- Repositorio: https://github.com/Lunes313/gestionInventarioHaskell?tab=readme-ov-file
 
 import System.Directory
 import Data.List
@@ -44,7 +45,7 @@ mostrarProducto (Producto nombre categoria precio) =
     "Producto: " ++ nombre ++ "\ncategoria: " ++ categoria ++ "\nprecio: " ++ show precio ++ "\n"
     
 -- Funcion para buscar productos por categoria
-buscarPorCategoria :: [Producto] ->     String -> [Producto]
+buscarPorCategoria :: [Producto] -> String -> [Producto]
 buscarPorCategoria inventario cat = filter (\producto -> cat == categoria producto) inventario
 
 -- Funcion para listar todos los productos
@@ -54,7 +55,6 @@ listarProductos inventario = do
     putStrLn "\nProductos en el inventario:\n"
     -- Muestra cada producto en el inventario
     mapM_ (putStrLn . mostrarProducto) inventario
-
 
 -- Funcion para mostrar la cantidad de productos por categoria
 cantidadPorCategoria :: [Producto] -> String -> Int
