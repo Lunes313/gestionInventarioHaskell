@@ -1,9 +1,15 @@
+-- Autores:
+-- Laura Restrepo Berrio
+-- Johan Samuel Rico
+
 import System.Directory
 import Data.List
 import System.IO
 import Control.DeepSeq (deepseq)
 
+-- Definición de producto
 data Producto = Producto {
+-- Atributos del producto
     nombre :: String,
     categoria :: String,
     precio :: Float
