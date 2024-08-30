@@ -8,6 +8,9 @@ _<sub>Código realizado con IntelliJ IDEA</sub>_
 
 ## Manual de Usuario
 
+**Video**
+_<sub>https://eafit-my.sharepoint.com/:v:/g/personal/jsricon_eafit_edu_co/EeE8cclR7XNGutP0FUKaVVMBbdH6gbHblrBrjYgFzQmqtA?e=LLtBIQ</sub>_
+
 **Introducción** 
 
 El Sistema de Gestión de Inventario permite gestionar productos almacenados en un archivo de texto. Puedes añadir productos, buscar artículos por categoría, listar todos los productos y mostrar la cantidad de productos por categoría.
